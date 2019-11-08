@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<factura nº="999">
+		<datos>
+			<empresa>
+				<nombre> Equipos Digitales SL </nombre>
+				<direccion> Avenida Valladoliz, Madrid, 28051 </direccion>
+				<CIF> Q-9876543 </CIF>
+				<telefono> 686858484 </telefono>
+				<fax> 598584883 </fax>
+			</empresa>
+			<factura>
+				<fecha> 12-01-2005 </fecha>
+				<pedido> 731 </pedido>
+				<forma_de_pago> Efectivo </forma_de_pago>
+			</factura>
+			<datos_cliente>
+				<numero_cliente> 879 </numero_cliente>
+				<nombre> Pepe Loperas Marchuna </nombre>
+				<direccion_envio> 
+					<calle> avenida oporto 7 </calle>
+					<poblacion> Madrid </poblacion>
+					<codigo_postal> 28043 </codigo_postal>
+					<provincia> Madrid </provincia>
+				</direccion_envio>
+			</datos_cliente>
+		</datos>
+		<datos_factura> 
+			<articulo>
+				<referencia> </referencia>
+				<descripcion> </descripcion>
+				<cantidad> </cantidad>
+				<precio> </precio>
+				<IVA> </IVA>
+				<importe> </importe>
+			</articulo>
+			<articulo>
+				<referencia> </referencia>
+				<descripcion> </descripcion>
+				<cantidad> </cantidad>
+				<precio> </precio>
+				<IVA> </IVA>
+				<importe> </importe>
+			</articulo>
+		</datos_factura>
+		<base_imponible> </base_imponible>
+		<iva> </iva>
+		<total_factura> </total_factura>
+		
+
+
+

@@ -1,0 +1,39 @@
+<?xml version ="1.0"?>
+    
+    <tipos_arboles>
+        <nombre> Acer monspessulanum</nombre>
+            <nombre_comun> Arce de Montpellier, Arce menor</nombre_comun>
+            <vegetacion> caducifolio</vegetacion>
+            <altura> De 6 a 10 metros</altura>
+            <forma_y_estructura> Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_y_estructura>
+            <color_en_primavera> Haz verde brillante, envés verde blanquecino</color_en_primavera>
+            <resistencia_a_heladas> Heladas fuertes (hasta -15ºC)</resistencia_a_heladas>
+
+        <nombre>Olea europea</nombre>
+            <nombre_comun> Olivo</nombre_comun>
+            <vegetacion> Perenne</vegetacion>
+            <altura> De 8 a 15 metros</altura>
+            <forma_y_estructura> Copa irregular. Tronco principal irregular con bifurcaciones.</forma_y_estructura>
+
+        <nombre>Ramaje tortuoso</nombre>
+            <color_en_primavera> Haz verde oscuro, envés verde plateado</color_en_primavera>
+            <resistencia_a_heladas> Heladas medias (hasta -10ºC) </resistencia_a_heladas>
+
+        <nombre>Platanus orientalis</nombre>
+            <nombre_comun> Platano</nombre_comun>
+            <vegetacion> Caducifolio</vegetacion>
+            <altura> De 20 a 25 metros</altura>
+            <forma_y_estructura> Copa ovoidal. Tronco principal recto. Ramaje expandido</forma_y_estructura>
+            <color_en_primavera> Haz verde medio, enves verde claro</color_en_primavera>
+            <color_en_otono> Ocre</color_en_otono>
+            <resistencia_a_heladas> Heladas fuertes (hasta -20ºC) </resistencia_a_heladas>
+
+        <nombre>Quercus ilex</nombre>
+            <nombre_comun> Encina</nombre_comun>
+            <vegetacion> Perenne</vegetacion>
+            <altura> En torno a 25 metros</altura>
+            <forma_y_estructura> Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</forma_y_estructura>
+            <color_en_primavera> Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</color_en_primavera>
+            <resistencia_a_heladas> Heladas fuertes (hasta -15ºC)</resistencia_a_heladas>
+
+    </tipos_arboles>

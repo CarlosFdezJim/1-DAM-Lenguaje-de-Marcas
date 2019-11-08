@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etiqueta
+
+[
+<!ELEMENT etiqueta (nombre, calle, ciudad, pais, codigo)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT codigo (#PCDATA)>
+]>
+
+<etiqueta>
+	<nombre>Roberto García</nombre>
+	<calle>c/ Mayor, 27</calle>
+	<ciudad></ciudad>
+	<pais> España </pais>
+	<codigo> 39343 </codigo>
+</etiqueta>

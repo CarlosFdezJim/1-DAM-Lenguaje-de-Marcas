@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <cine>
+ 	<sala numero = "1">
+ 		<pelicula>el libro de la selva</pelicula>
+ 			<hora>22h</hora>
+ 			<asientos_completados>100</asientos_completados>
+ 			<total_asientos>200</total_asientos>
+ 	</sala>
+ 	<sala numero = "2">
+ 			<pelicula>Joker</pelicula>
+ 			<hora>22h</hora>
+ 			<asientos_completados>100</asientos_completados>
+ 			<total_asientos>200</total_asientos>
+ 	</sala>
+ 	<sala numero = "3">
+ 		<pelicula>Ad Astra: Hacia las Estrellas</pelicula>
+ 			<hora>23h</hora>
+ 			<asientos_completados>80</asientos_completados>
+ 			<total_asientos>200</total_asientos>
+ 	</sala>
+ 	<sala numero = "4">
+ 		<pelicula>Batman vs. Teenage Mutant Ninja Turtles</pelicula>
+ 			<hora>00h</hora>
+ 			<asientos_completados>200</asientos_completados>
+ 			<total_asientos>200</total_asientos>
+ 	</sala> 	
+</cine>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liga_Santander>
+	<equipo> Real Madrid </equipo>
+	<fundacion> 1902 </fundacion>
+	<presidente> Florentino Pérez </presidente>
+	<estadio> Santiago Bernabéu </estadio>
+	<capacidad = estadio > 81.044 </capacidad>
+	<entrenador> Zinedine Zidane </entrenador>
+	<plantilla>
+		<porteros>
+			<nombre>Alphonse Areola</nombre>
+				<lugar_nacimiento> Paris (Francia) </lugar_nacimiento>
+				<fecha_nacimiento> 27/02/1993 </fecha_nacimiento>
+				<altura> 1,95 m </altura>
+				<peso> 94 kg </peso>
+				<dorsal> 1 </dorsal>
+			<nombre>Thibaut Courtois</nombre>
+				<lugar_nacimiento> Bree (Bélgica) </lugar_nacimiento>
+				<fecha_nacimiento> 11/05/1992 </fecha_nacimiento>
+				<altura> 1,99 m </altura>
+				<peso> 96 kg </peso>
+				<dorsal> 13 </dorsal>
+		</porteros>
+		<defensas>
+			<nombre>Daniel Carvajal Ramos</nombre>
+				<lugar_nacimiento> Leganés (Madrid) </lugar_nacimiento>
+				<fecha_nacimiento> 11/01/1992 </fecha_nacimiento>
+				<altura> 1,73 m </altura>
+				<peso> 73,5 kg </peso>
+				<dorsal> 2 </dorsal>
+			<nombre>Éder Gabriel Militão</nombre>
+				<lugar_nacimiento> Sertãozinho (Brasil) </lugar_nacimiento>
+				<fecha_nacimiento> 18/01/1998 </fecha_nacimiento>
+				<altura> 1,86 m </altura>
+				<peso> 78 kg </peso>
+				<dorsal> 3 </dorsal>
+			<nombre>Sergio Ramos García</nombre>
+				<lugar_nacimiento> Camas (Sevilla) </lugar_nacimiento>
+				<fecha_nacimiento> 30/03/1986 </fecha_nacimiento>
+				<altura> 1,84 m </altura>
+				<peso> 82,2 kg </peso>
+				<dorsal> 4 </dorsal>
+			<nombre>Raphael varane</nombre>
+				<lugar_nacimiento> Lille (Francia) </lugar_nacimiento>
+				<fecha_nacimiento> 25/04/1993 </fecha_nacimiento>
+				<altura> 1,91 m </altura>
+				<peso> 81,2 kg </peso>
+				<dorsal> 5 </dorsal>
+			<nombre>José Ignacio Fernández Iglesias "Nacho"</nombre>
+				<lugar_nacimiento> Madrid </lugar_nacimiento>
+				<fecha_nacimiento> 18/01/1990 </fecha_nacimiento>
+				<altura> 1,80 m </altura>
+				<peso> 76,3 kg </peso>
+				<dorsal> 6 </dorsal>
+			<nombre>Marcelo Vieira da Silva</nombre>
+				<lugar_nacimiento> Río de Janeiro (Brasil) </lugar_nacimiento>
+				<fecha_nacimiento> 12/05/1988 </fecha_nacimiento>
+				<altura> 1,74 m </altura>
+				<peso> 75 kg </peso>
+				<dorsal> 12 </dorsal>
+			<nombre>Odriozola</nombre>
+				<lugar_nacimiento> San Sebastián </lugar_nacimiento>
+				<fecha_nacimiento> 14/12/1995 </fecha_nacimiento>
+				<altura> 1,76 m </altura>
+				<peso> 66 kg </peso>
+				<dorsal> 19 </dorsal>
+			<nombre>Fernan Mendy</nombre>
+				<lugar_nacimiento> Meulan-en-Yvelines (Francia) </lugar_nacimiento>
+				<fecha_nacimiento> 08/06/1995 </fecha_nacimiento>
+				<altura> 1,80 m </altura>
+				<peso> 73 kg </peso>
+				<dorsal> 23 </dorsal>
+		</defensas>

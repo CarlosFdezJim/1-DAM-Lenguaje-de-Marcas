@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE receta
+
+[
+<!ELEMENT receta (titulo, ingredientes, procedimientos)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!ELEMENT procedimientos (#PCDATA)>
+]>
+
+<receta>
+	<titulo>...</titulo>
+	<ingredientes></ingredientes>
+	<procedimientos></procedimientos>
+</receta>

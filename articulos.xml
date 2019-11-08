@@ -1,0 +1,12 @@
+Los elemetos "empresa" tienen que estar vacíos.
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulos [
+   <!ELEMENT articulos (articulo)+>
+   <!ELEMENT articulo (#PCDATA)>
+      <!ATTLIST articulo color CDATA #FIXED "rojo">
+]>
+<articulos>
+   <articulo color="rojo">bolígrafo</articulo>
+   <articulo>cuaderno</articulo>
+   <articulo color="rojo">rotulador</articulo>
+</articulos>

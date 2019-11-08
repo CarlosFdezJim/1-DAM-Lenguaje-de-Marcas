@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mondial [
+    <!ELEMENT mondial(country+)> 
+    <!ELEMENT country (name, population, population_growth,infant_mortality,gdp_total,inflation,indep_date,government,encompassed, ethnicgroups,religions,border,city,(#PCDATA))>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT population (#PCDATA)>
+    <!ELEMENT population_growth (#PCDATA)>
+    <!ELEMENT infant_mortality (#PCDATA)>
+    <!ELEMENT gdp_total (#PCDATA)>
+    <!ELEMENT gdp_agri (#PCDATA)>
+    <!ELEMENT inflation (#PCDATA)>
+    <!ELEMENT indep_date (#PCDATA)>
+    <!ELEMENT 
+    <!ELEMENT
+
+      <!ATTLIST car_code CDATA #REQUIRED>
+      <!ATTLIST area CDATA #REQUIRED>
+      <!ATTLIST capital CDATA #REQUIRED>
+      <!ATTLIST memberships IDREF #REQUIRED>
+   
+]>
+
+<mondial>
+    <country car_code="AL" area="28750" capital="cty-cid-cia-Albania-Tirane" memberships="org-BSEC org-CE org-CCC org-ECE org-EBRD org-FAO org-IAEA org-IBRD org-ICAO org-Interpol org-IDA org-IFRCS org-IFC org-IFAD org-ILO org-IMO org-IMF org-IOC org-IOM org-ISO org-ICRM org-ITU org-Intelsat org-IDB org-ANC org-OSCE org-OIC org-PFP org-UN org-UNESCO org-UNIDO org-UNOMIG org-UPU org-WFTU org-WHO org-WIPO org-WMO org-WToO org-WTrO">
+        <name>Albania</name>
+        <population>3249136</population>
+        <population_growth>1.34</population_growth>
+        <infant_mortality>49.2</infant_mortality>
+        <gdp_total>4100</gdp_total>
+        <gdp_agri>55</gdp_agri>
+        <inflation>16</inflation>
+        <indep_date>1912-11-28</indep_date>
+        <government>emerging democracy</government>
+        <encompassed continent="europe" percentage="100"/>
+        <ethnicgroups percentage="3">Greeks</ethnicgroups>
+        <ethnicgroups percentage="95">Albanian</ethnicgroups>
+        <religions percentage="70">Muslim</religions>
+        <religions percentage="10">Roman Catholic</religions>
+        <religions percentage="20">Christian Orthodox</religions>
+        <border country="GR" length="282"/>
+        <border country="MK" length="151"/>
+        <border country="MNE" length="172"/>
+        <border country="KOS" length="112"/>
+        <city id="cty-cid-cia-Albania-Tirane" is_country_cap="yes" country="AL">
+            <name>Tirane</name>
+            <longitude>19.8</longitude>
+            <latitude>41.3</latitude>
+            <population year="87">192000</population>
+        </city>
+        <city id="stadt-Shkoder-AL-AL" country="AL">
+            <name>Shkoder</name>
+            <longitude>19.2</longitude>
+            <latitude>42.2</latitude>
+            <population year="87">62000</population>
+            <located_at watertype="lake" lake="lake-Skutarisee"/>
+        </city>
+        <city id="stadt-Durres-AL-AL" country="AL">
+            <name>Durres</name>
+            <longitude>19.3</longitude>
+            <latitude>41.3</latitude>
+            <population year="87">60000</population>
+            <located_at watertype="sea" sea="sea-Mittelmeer"/>
+        </city>
+        <city id="stadt-Vlore-AL-AL" country="AL">
+            <name>Vlore</name>
+            <longitude>19.3</longitude>
+            <latitude>40.3</latitude>
+            <population year="87">56000</population>
+            <located_at watertype="sea" sea="sea-Mittelmeer"/>
+        </city>
+        <city id="stadt-Elbasan-AL-AL" country="AL">
+            <name>Elbasan</name>
+            <longitude>20.1</longitude>
+            <latitude>41.1</latitude>
+            <population year="87">53000</population>
+        </city>
+        <city id="stadt-Korce-AL-AL" country="AL">
+            <name>Korce</name>
+            <longitude>20.5</longitude>
+            <latitude>40.4</latitude>
+            <population year="87">52000</population>
+        </city>
+    </country>
+</mondial>

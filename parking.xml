@@ -1,0 +1,9 @@
+<? xml version= "1.0"?>
+	<parking>
+		<plaza>	
+			<planta>2</planta>
+			<coche>Renault</coche>
+			<marca>Megane</marca>
+			<matricula>1234abc</matricula>
+		</plaza>
+	</parking>
